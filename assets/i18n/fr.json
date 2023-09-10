@@ -1,0 +1,22 @@
+{
+    "LoginFormLabels.firstname": "Prénom",
+    "LoginFormLabels.lastname": "Nom de famille",
+    "LoginFormLabels.message": "Message",
+    "LoginFormLabels.street": "Adresse",
+    "LoginFormLabels.city": "Ville",
+    "LoginFormLabels.postal": "Code postal",
+    "LoginFormLabels.submit": "Envoyer",
+    "LoginFormLabels.title": "Formulaire d'inscription",
+    "LoginFormLabels.invalidfname": "Prénom invalide",
+    "password":"Mot de passe",
+    "email":"Email",
+"LoginFormLabels.invalidlname": "Nom de famille invalide",
+"LoginFormLabels.invalidaddress": "Adresse invalide",
+"LoginFormLabels.invalidcity": "Ville invalide",
+"LoginFormLabels.invalidpcode": "Code postal invalide",
+"LoginFormLabels.invalidemail": "Email invalide",
+"LoginFormLabels.invalidpw": "Le mot de passe doit contenir 8 caractères et au moins un chiffre.",
+"welcome":"bienvenue",
+"logout":"Déconnexion"
+
+    }

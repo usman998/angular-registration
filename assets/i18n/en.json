@@ -1,0 +1,21 @@
+{
+    "LoginFormLabels.firstname":"Firstname",
+    "LoginFormLabels.lastname":"Lastname",
+    "LoginFormLabels.message":"Message",
+    "LoginFormLabels.street":"AddressLine",
+    "LoginFormLabels.city":"City",
+    "LoginFormLabels.postal":"PostalCode",
+    "LoginFormLabels.submit":"Submit",
+    "password":"Password",
+    "email":"Email",
+    "LoginFormLabels.title":"Registration From",
+    "LoginFormLabels.invalidfname":"Invalid FirstName",
+    "LoginFormLabels.invalidlname":"Invalid LastName",
+    "LoginFormLabels.invalidaddress":"Invalid Address",
+    "LoginFormLabels.invalidcity":"Invalid City",
+    "LoginFormLabels.invalidpcode":"Invalid PostalCode",
+    "LoginFormLabels.invalidemail":"Invalid Email",
+  "LoginFormLabels.invalidpw":"Password must contain 8 characters and atleast one digit",
+  "welcome":"Welcome",
+  "logout":"log out"
+    }
